@@ -1,0 +1,46 @@
+﻿.header {
+    background: #eff7ff none repeat scroll 0 0;
+    height: 80px;
+    margin: 0 auto;
+    position: relative;
+    width: 980px;
+    font: 12px arial,"Microsoft YaHei","宋体";
+}
+
+.cnH-channel {
+    border-left: 1px solid #999;
+    color: black;
+    float: left;
+    font-size: 22px;
+    line-height: 30px;
+    margin: 25px 10px 25px 0;
+    padding-left: 20px;
+    text-shadow: 0 8px 9px #c4b59d, 0px -2px 1px #fff;
+}
+
+.headerWrap {
+    background: #eff7ff none repeat scroll 0 0;
+    height: 80px;
+    position: relative;
+    z-index: 10;
+}
+
+.hLogo {
+    float: left;
+    font-size: 30px;
+    font-family: 华文仿宋;
+    font-weight: bold;
+    color: #1268cc;
+    line-height: 30px;
+    margin: 25px 10px 25px 0;
+    padding-left: 20px;
+    text-shadow: 0 8px 9px #c4b59d, 0px -2px 1px #fff;
+}
+
+.user-status {
+    float: right;
+    font-size: 16px;
+    line-height: 30px;
+    margin: 35px 10px 25px 0;
+    padding-left: 20px;
+}
